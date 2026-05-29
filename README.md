@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **sharvamaurya608@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** Raja Mahendra Pratap Singh University, Aligarh
 - 🌱 **I’m currently learning:** PHP With Laravel || PHP With CI
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 👯 **I’m looking to collaborate on:** Educational Management Systems, University Portals, and Full-Stack Web Applications
 - 🤔 **I’m looking for help with:** Raja Mahendra Pratap Singh University, Aligarh
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sharvanmaurya608@gmail.com
